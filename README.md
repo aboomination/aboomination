@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**aboomination/aboomination** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my mental health
 - 🌱 I’m currently learning how to ADHD
@@ -12,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about the paperwork
 - 📫 How to reach me: Post irrelevant crap on twitter
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: As a print&media engineer, I can still very likely not "repair" your printer.
--->
+- ⚡ Fun fact: As a print&media engineer, I can still very likely not "repair" your printer
