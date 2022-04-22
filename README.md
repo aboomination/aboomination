@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my mental health
 - 🌱 I’m currently learning how to ADHD
 - 👯 I’m looking to collaborate on life
-- 🤔 I’m looking for help with leaving the house
+- 🤔 I’m looking for help with Visual Basic
 - 💬 Ask me about the paperwork
 - 📫 How to reach me: Post irrelevant crap on twitter
 - 😄 Pronouns: He/him
